@@ -1,0 +1,10 @@
+{
+    "name": "lem/app_sheep",
+    "description": "Sheep",
+    "type": "PHP",
+    "require": {
+        "fzaninotto/faker": "^1.7"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}

@@ -1,0 +1,15 @@
+body{
+
+    background-color: #03A9F4;
+}
+
+form
+{
+  background-color: #2ECC71;
+  height: 300px; padding: 2rem;
+}
+
+.sheep__child{
+    margin: 2rem 0;
+}
+
